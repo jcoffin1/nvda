@@ -630,7 +630,7 @@ dev = [
     { name = "py2exe", specifier = "==0.14.2.0" },
     { name = "scons", specifier = "==4.11.0" },
     { name = "setuptools", specifier = "~=84.0.0" },
-    { name = "uv", specifier = "==0.12.5" },
+    { name = "uv", specifier = "==0.13.4" },
 ]
 dev-docs = [
     { name = "sphinx", specifier = "==9.1.0" },
@@ -1318,13 +1318,13 @@ wheels = [
 
 [[package]]
 name = "uv"
-version = "0.12.5"
+version = "0.13.4"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/7c/b0/3085b844fe59aa319a3f94a5cca9938fffecc82705aa9c2762a749f7095c/uv-0.12.5.tar.gz", hash = "sha256:442a21d181faae21742aaaf6d2091a0d27755d3eac344061a9a00c90169b7524", size = 7101936, upload-time = "2026-08-14T19:56:57.693Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/79/55/609455d21e87430c11fe734abfced50a3bdf177b2f49d41fbb19c199cbc3/uv-0.13.4.tar.gz", hash = "sha256:b0bff5b9a5061f7a35b1d0c1a94c19af134222c48eb7aadc42f85a038be1b248", size = 7482486, upload-time = "2026-10-20T15:12:06.801Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/0a/38/9053599a73a351d1cd34195c7a48c1db4d4d51b57b543607fad7ecf9354c/uv-0.12.5-py3-none-win32.whl", hash = "sha256:39bb102766c95571781a7b4c611675ea213e08df5c680f3936279b3c0d1f6c3c", size = 20744641, upload-time = "2026-08-14T19:56:47.689Z" },
-    { url = "https://files.pythonhosted.org/packages/ce/f6/a9af9311c7f5640ca2bfcfdedb7aca37fa6d1d9f5c981fb50c5be02b7477/uv-0.12.5-py3-none-win_amd64.whl", hash = "sha256:455c3e57602e2141e66e2f0bf685898c9c5e5a70377d14c9a71554a3baf3ddbf", size = 21621812, upload-time = "2026-08-14T19:56:51.126Z" },
-    { url = "https://files.pythonhosted.org/packages/bc/fb/e1266399f755f97a0783de379f2fed6dae0a2a240db32fe5a2eb976fec8a/uv-0.12.5-py3-none-win_arm64.whl", hash = "sha256:bea86f27a027e0e3af908db4bdd4f1ceef3ca2bd47673b5ccca7f550e325b1b4", size = 20381876, upload-time = "2026-08-14T19:56:54.883Z" },
+    { url = "https://files.pythonhosted.org/packages/9e/4f/fc05ff4292edfe785b47874ec86d3d83ca2bf735cff8a9d2170ffb66ad83/uv-0.13.4-py3-none-win32.whl", hash = "sha256:d333f01852b817ba05612de31474739da1af7e5463d119b30a9c4331eba1f408", size = 16190502, upload-time = "2026-10-20T15:11:56.657Z" },
+    { url = "https://files.pythonhosted.org/packages/2f/b9/b526eab6c72eacc705a58378f6850fde046b28c86fed01bd42da61367c6b/uv-0.13.4-py3-none-win_amd64.whl", hash = "sha256:b2ff80397273fff0e02c20eacae6882834c811827d6fc08f658db156fe754386", size = 15331833, upload-time = "2026-10-20T15:11:59.733Z" },
+    { url = "https://files.pythonhosted.org/packages/7c/f7/4d5fa89d3d10ff6a84e547ef6e02c45b2f2d50e66682da778acf60db63f1/uv-0.13.4-py3-none-win_arm64.whl", hash = "sha256:deffa5a4afdb48f3e44fb26e80377d256b330ddcad0373daff4b54f6162b43a4", size = 15690151, upload-time = "2026-10-20T15:12:02.74Z" },
 ]
 
 [[package]]
